@@ -1,3 +1,4 @@
+
 // https://www.hackerrank.com/challenges/inheritance-introduction/problem?isFullScreen=false
 
 #include <cmath>
@@ -8,16 +9,20 @@
 using namespace std;
 
 
-class Triangle{
+class Triangle
+{
     public:
-    	void triangle(){
+    	void triangle()
+        {
      		cout<<"I am a triangle\n";
     	}
 };
 
-class Isosceles : public Triangle{
+class Isosceles : public Triangle
+{
     public:
-    	void isosceles(){
+    	void isosceles()
+        {
     		cout<<"I am an isosceles triangle\n";
     	}
         
