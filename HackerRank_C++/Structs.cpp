@@ -8,7 +8,6 @@
 #include <algorithm>
 using namespace std;
 
-
 struct Student
 {
     int age , standard ;
