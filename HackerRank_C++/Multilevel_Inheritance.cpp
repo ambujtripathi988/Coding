@@ -12,7 +12,7 @@ class Triangle
 {
 	public:
 		void triangle()
-        {
+        	{
 			cout<<"I am a triangle\n";
 		}
 };
@@ -20,19 +20,19 @@ class Triangle
 class Isosceles : public Triangle
 {
   	public:
-  		void isosceles()
-        {
-    		cout<<"I am an isosceles triangle\n";
-  		}
+		void isosceles()
+		{
+			cout<<"I am an isosceles triangle\n";
+		}
 };
 
 class Equilateral : public Isosceles 
 {
     public :
-        void equilateral()
-        {
-            cout << "I am an equilateral triangle"<<endl;
-        }
+		void equilateral()
+		{
+		    cout << "I am an equilateral triangle" <<endl;
+		}
 };
 
 int main()
