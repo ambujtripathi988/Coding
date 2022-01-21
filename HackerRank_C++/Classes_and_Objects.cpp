@@ -9,7 +9,8 @@
 #include <cassert>
 using namespace std;
 
-class Student {
+class Student 
+{
   private:
     
     int scores[5];
