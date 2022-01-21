@@ -12,12 +12,10 @@ using namespace std;
 class Student 
 {
   private:
-    
     int scores[5];
     int sum;
   
   public:
-    
     Student() : sum(0){}
     
     int calculateTotalScore() 
