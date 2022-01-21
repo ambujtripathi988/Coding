@@ -1,3 +1,4 @@
+
 // https://www.hackerrank.com/challenges/classes-objects/problem?isFullScreen=false
 
 #include <cmath>
