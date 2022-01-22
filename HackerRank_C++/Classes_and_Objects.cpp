@@ -1,3 +1,4 @@
+
 // https://www.hackerrank.com/challenges/classes-objects/problem?isFullScreen=false
 
 #include <cmath>
@@ -8,14 +9,13 @@
 #include <cassert>
 using namespace std;
 
-class Student {
+class Student 
+{
   private:
-    
     int scores[5];
     int sum;
   
   public:
-    
     Student() : sum(0){}
     
     int calculateTotalScore() 
