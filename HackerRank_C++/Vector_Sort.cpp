@@ -21,7 +21,6 @@ void display (vector<T> &v)               // passing vector as parameter and tak
     // cout << "\n\n" ;
 }
 
-
 int main()
 {
     int n , element;
