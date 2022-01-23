@@ -37,7 +37,6 @@ int main()
     sort(vec.begin(),vec.end());			// sorting the elements of the vector in ascending order
 
     display(vec) ;
-
-
+  
     return 0;
 }
