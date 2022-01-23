@@ -11,7 +11,6 @@ using namespace std;
 template <class T>
 void display (vector<T> &v)               // passing vector as parameter and taking v as a reference
                                                                // vector<t> is used as a datatype
-
 {
     for (int i=0 ; i < v.size() ; ++i)          // v.size automatically finds the current size of the vector which is passed in the display function as a parameter
     {
