@@ -1,7 +1,6 @@
 
 // https://www.hackerrank.com/challenges/vector-sort/problem?isFullScreen=false
 
-
 #include <cmath>
 #include <cstdio>
 #include <vector>
