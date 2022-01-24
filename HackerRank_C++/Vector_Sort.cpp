@@ -1,7 +1,6 @@
 
 // https://www.hackerrank.com/challenges/vector-sort/problem?isFullScreen=false
 
-
 #include <cmath>
 #include <cstdio>
 #include <vector>
@@ -12,7 +11,6 @@ using namespace std;
 template <class T>
 void display (vector<T> &v)               // passing vector as parameter and taking v as a reference
                                                                // vector<t> is used as a datatype
-
 {
     for (int i=0 ; i < v.size() ; ++i)          // v.size automatically finds the current size of the vector which is passed in the display function as a parameter
     {
@@ -22,7 +20,6 @@ void display (vector<T> &v)               // passing vector as parameter and tak
 
     // cout << "\n\n" ;
 }
-
 
 int main()
 {
@@ -40,7 +37,6 @@ int main()
     sort(vec.begin(),vec.end());			// sorting the elements of the vector in ascending order
 
     display(vec) ;
-
-
+  
     return 0;
 }
