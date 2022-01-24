@@ -43,7 +43,6 @@ int main()
     cout << vec.size() << endl ;
 
     display(vec) ;
-
-
+  
     return 0;
 }
