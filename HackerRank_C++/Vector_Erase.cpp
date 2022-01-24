@@ -17,8 +17,6 @@ void display (vector<T> &v)               // passing vector as parameter and tak
         cout << v[i] <<" ";
        //  cout << v.at(i) <<"  ";         // we are using two ways to display elements of vector , this is the reason why elements are printed two times in the output
     }
-
-    // cout << "\n\n" ;
 }
 
 int main()
