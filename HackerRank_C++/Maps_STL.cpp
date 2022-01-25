@@ -37,9 +37,10 @@ int main()
         
         else
         {
-            cout << clas[name] << "\n";
+            cout << clas[name] << endl ;
         }
         
     }
+    
     return 0;
 }
