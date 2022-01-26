@@ -11,7 +11,6 @@
 #include <algorithm>
 using namespace std;
 
-
 int main() 
 {
     int q, type; 
@@ -38,9 +37,10 @@ int main()
         
         else
         {
-            cout << clas[name] << "\n";
+            cout << clas[name] << endl ;
         }
         
     }
+    
     return 0;
 }
