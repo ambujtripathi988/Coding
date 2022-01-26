@@ -10,8 +10,7 @@
 using namespace std;
 
 int main() 
-{
-    
+{    
     int nquery , query_type , query ;
 
     set<int> s ;
@@ -22,7 +21,6 @@ int main()
     {
         cin >> query_type ;
         
-
         if ( query_type == 1)
         {
             cin >> query ;
