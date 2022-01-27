@@ -2,7 +2,6 @@
 // https://www.hackerrank.com/challenges/cpp-lower-bound/problem
 
 
-
 #include <bits/stdc++.h>        // universal set of all the header files in c++
 
 using namespace std ;
