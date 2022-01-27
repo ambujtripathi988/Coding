@@ -7,7 +7,6 @@ using namespace std ;
 
 int main ()
 {
-
     int sizee , nquery ;
 
     // input of size of the array
