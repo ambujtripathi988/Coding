@@ -20,9 +20,6 @@ int main ()
         cin >> arr[i] ;
     }
     
-    // int *ptr = arr[sizee] ;
-
-
     // input of no. of queries 
     cin >> nquery ; 
 
