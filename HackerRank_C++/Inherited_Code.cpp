@@ -10,23 +10,23 @@ using namespace std;
 class BadLengthException 
 {
     private: 
-        int n;
+        int n ;
     public:
         BadLengthException(int errornumber) 
         {
-            n = errornumber;
+            n = errornumber ;
         }
     
         int what() 
         {
-            return n;
+            return n ;
         }
 };
 
 bool checkUsername(string username) 
 {
-    bool isValid = true;
-    int n = username.length();
+    bool isValid = true ;
+    int n = username.length() ;
     
     if(n < 5) 
     {
@@ -37,11 +37,11 @@ bool checkUsername(string username)
     {
         if(username[i] == 'w' && username[i+1] == 'w') 
         {
-            isValid = false;
+            isValid = false ;
         }
     }
     
-    return isValid;
+    return isValid ;
 }
 
 int main() {
