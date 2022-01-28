@@ -1,15 +1,12 @@
 
 // https://www.hackerrank.com/challenges/cpp-lower-bound/problem
 
-
-
 #include <bits/stdc++.h>        // universal set of all the header files in c++
 
 using namespace std ;
 
 int main ()
 {
-
     int sizee , nquery ;
 
     // input of size of the array
@@ -22,9 +19,6 @@ int main ()
         cin >> arr[i] ;
     }
     
-    // int *ptr = arr[sizee] ;
-
-
     // input of no. of queries 
     cin >> nquery ; 
 
