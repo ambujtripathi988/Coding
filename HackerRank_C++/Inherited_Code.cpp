@@ -1,7 +1,6 @@
 
 // https://www.hackerrank.com/challenges/inherited-code/problem?isFullScreen=false
 
-
 #include <iostream>
 #include <string>
 #include <sstream>
