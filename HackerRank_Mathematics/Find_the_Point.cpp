@@ -9,6 +9,7 @@ int main()
     int px,py,qx,qy,rx,ry,test;
     
     cin >> test ;
+    
     for(int i = 0; i < test ; i++)
     {
         cin >> px >> py >> qx >> qy ;
