@@ -2,11 +2,11 @@
 // https://www.hackerrank.com/challenges/maximum-draws/problem?isFullScreen=false
 
 #include <iostream>
-using namespace std;
+using namespace std ;
 
 int main() 
 {
-    int test , no;
+    int test , no ;
 
     cin >> test ;
     int arr[test] ;
