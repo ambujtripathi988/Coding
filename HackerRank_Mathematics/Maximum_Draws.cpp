@@ -1,20 +1,20 @@
 
-// https://www.hackerrank.com/challenges/maximum-draws/problem?isFullScreen=true
-
+// https://www.hackerrank.com/challenges/maximum-draws/problem?isFullScreen=false
 
 #include <iostream>
-using namespace std;
+using namespace std ;
 
 int main() 
 {
-    int test , no;
+    int test , no ;
 
     cin >> test ;
-    int arr[test];
+    int arr[test] ;
+    
     for(int i=0 ; i < test ; i++)
     {
         cin >> no ;
-        no ++;
+        no ++ ;
         arr [i] = no ;
     }
     
