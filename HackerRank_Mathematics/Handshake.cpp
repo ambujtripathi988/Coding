@@ -5,15 +5,17 @@
 using namespace std;
 
 int main() 
-{
-    int test , n ,hand;
+{ 
+    int test , n , hand ;
 
     cin >> test ;
+    
     int arr[test] ;
 
     for(int i=0 ; i < test ; i++)
     {
         cin >> n ;
+        
         hand = ((n*(n-1))/2 );
 
         arr[i] = hand ; 
@@ -23,7 +25,6 @@ int main()
     {
         cout << arr[i] << endl;
     }
-
     
     return 0;
 }
