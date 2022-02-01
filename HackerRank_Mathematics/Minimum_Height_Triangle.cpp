@@ -6,8 +6,7 @@ using namespace std;
 
 int main() 
 {
-    double a,b;
-    double h;
+    double a , b , h ;
 
     cin >> b >> a ;
 
@@ -15,9 +14,8 @@ int main()
     
     long long int num = ceil(h) ;
     
-
     cout << num ;
-
+    
     
     return 0;
 }
