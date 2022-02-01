@@ -15,7 +15,6 @@ int main()
     long long int num = ceil(h) ;
     
     cout << num ;
-    
-    
+        
     return 0;
 }
