@@ -10,7 +10,7 @@ int main()
 
     cin >> b >> a ;
 
-    h = (a*2)/b ;
+    h = (a*2) / b ;
     
     long long int num = ceil(h) ;
     
