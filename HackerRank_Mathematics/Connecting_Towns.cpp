@@ -1,5 +1,5 @@
 
-// https://www.hackerrank.com/challenges/connecting-towns/problem?isFullScreen=true
+// https://www.hackerrank.com/challenges/connecting-towns/problem?isFullScreen=false
 
 #include <iostream>
 using namespace std;
