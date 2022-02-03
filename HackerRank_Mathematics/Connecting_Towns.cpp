@@ -2,7 +2,7 @@
 // https://www.hackerrank.com/challenges/connecting-towns/problem?isFullScreen=false
 
 #include <iostream>
-using namespace std;
+using namespace std ;
 
 int main() 
 {
