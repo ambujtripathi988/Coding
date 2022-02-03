@@ -1,12 +1,12 @@
 
-// https://www.hackerrank.com/challenges/game-with-cells/problem?isFullScreen=true
+// https://www.hackerrank.com/challenges/game-with-cells/problem?isFullScreen=false
 
 #include <bits/stdc++.h>
-using namespace std;
+using namespace std ;
 
 int main() 
 {
-    int n,m ;
+    int n , m ;
 
     cin >> n >> m ;
 
