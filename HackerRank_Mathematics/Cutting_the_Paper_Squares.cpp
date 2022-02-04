@@ -2,7 +2,7 @@
 // https://www.hackerrank.com/challenges/p1-paper-cutting/problem?isFullScreen=false
 
 #include <iostream>
-using namespace std;
+using namespace std ;
 
 int main() 
 {
