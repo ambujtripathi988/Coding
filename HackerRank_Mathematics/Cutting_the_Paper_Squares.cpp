@@ -14,5 +14,5 @@ int main()
 
     cout << cuts << endl ;
 
-    return 0;
+    return 0 ;
 }
