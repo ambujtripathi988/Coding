@@ -17,14 +17,21 @@ int main()
         cin >> n ;
 
         // result = (n/2)*( 2*n - 1 ) ;
+        
         //result = n*n ;
+        
         long long int temp = 1000000007; 
+        
         result = ((n%temp)*(n%temp))%temp;
+        
         // long long int temp = (pow(10,9)+7);
         
         result = result % temp ;
+        
         // result ++ ;
+        
         cout << result << endl ;
+        
         result = 0 ;
     }
 
