@@ -1,5 +1,5 @@
 
-// https://www.hackerrank.com/challenges/summing-the-n-series/problem?isFullScreen=true
+// https://www.hackerrank.com/challenges/summing-the-n-series/problem?isFullScreen=false
 
 #include <bits/stdc++.h>
 using namespace std;
