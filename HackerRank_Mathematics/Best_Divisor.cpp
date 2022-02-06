@@ -1,5 +1,5 @@
 
-// https://www.hackerrank.com/challenges/best-divisor/problem?isFullScreen=true
+// https://www.hackerrank.com/challenges/best-divisor/problem?isFullScreen=false
 
 #include <bits/stdc++.h>
 using namespace std;
@@ -14,9 +14,7 @@ int main()
     int arr_sum[n];
     int arr_num[n];
     arr_num[0] = 1 ;
-
     
-
     for(int i=1 ; i<=n ; i++)       // for finding factors
     {
         if(n%(i+1) == 0)
@@ -27,7 +25,6 @@ int main()
             arr_num[i] = 0 ;
         }
     }
-
     
     for(int i=0 ; i<n ; i++)       // for finding sum of digits of a factor
     {
@@ -49,7 +46,9 @@ int main()
     int x = sizeof(arr_sum) / sizeof(arr_sum[0]);
 
     //int max_num = *max_element(arr_sum, arr_sum + x);
-    int max_pos=0;
+    
+    int max_pos=0 ;
+    
     for(int i=0 ; i<n ; i++)
     {
         if (arr_num[i]==0)
