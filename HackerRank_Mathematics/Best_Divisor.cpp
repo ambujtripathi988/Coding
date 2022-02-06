@@ -21,7 +21,9 @@ int main()
         {
             arr_num[i] = i+1 ;
         }
-        else {
+        
+        else 
+        {
             arr_num[i] = 0 ;
         }
     }
@@ -29,6 +31,7 @@ int main()
     for(int i=0 ; i<n ; i++)       // for finding sum of digits of a factor
     {
         int temp = arr_num[i];
+        
         while(temp > 0)
         {
             digit = temp % 10 ;
