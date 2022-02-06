@@ -56,13 +56,16 @@ int main()
     {
         if (arr_num[i]==0)
             continue;
+        
         else if(arr_sum[i] > arr_sum[max_pos])
             max_pos = i ;
+        
         else if(arr_sum[i] == arr_sum[max_pos])
         {
             if (arr_num[i]<arr_num[max_pos])
                 max_pos = i;
         }
+        
         //cout<<arr_num[i]<<"    "<<arr_sum[i]<<endl;
         
     }
