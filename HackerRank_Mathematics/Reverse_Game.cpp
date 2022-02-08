@@ -3,7 +3,7 @@
 
 #include <bits/stdc++.h>
 
-using namespace std;
+using namespace std ;
 
 int main()
 {
@@ -21,7 +21,7 @@ int main()
         
         for(int i=0;i<n;i++)
         {
-            a[i] = i;
+            a[i] = i ;
         }
         int i,j,x;
         
