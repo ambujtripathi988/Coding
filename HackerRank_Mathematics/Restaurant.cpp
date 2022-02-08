@@ -1,5 +1,5 @@
 
-// https://www.hackerrank.com/challenges/restaurant/problem?isFullScreen=true
+// https://www.hackerrank.com/challenges/restaurant/problem?isFullScreen=false
 
 #include <bits/stdc++.h>
 using namespace std;
@@ -7,6 +7,7 @@ using namespace std;
 int main() 
 {
     int test , length , breadth , sqs , area , count ;
+    
     int val1 , val2 ;
 
     cin >> test ;
@@ -62,10 +63,12 @@ int main()
                 }
             }
             */
+            
             count = 1 ;
         }
 
         cout << count << endl ;
+        
         count = 0 ;
 
     }
