@@ -1,5 +1,5 @@
 
-// https://www.hackerrank.com/challenges/diwali-lights/problem?isFullScreen=true
+// https://www.hackerrank.com/challenges/diwali-lights/problem?isFullScreen=false
 
 #include <bits/stdc++.h>
 using namespace std;
