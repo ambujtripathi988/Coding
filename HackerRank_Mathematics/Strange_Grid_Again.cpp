@@ -1,6 +1,5 @@
 
-// https://www.hackerrank.com/challenges/strange-grid/problem?isFullScreen=true
-
+// https://www.hackerrank.com/challenges/strange-grid/problem?isFullScreen=false
 
 #include <bits/stdc++.h>
 using namespace std;
