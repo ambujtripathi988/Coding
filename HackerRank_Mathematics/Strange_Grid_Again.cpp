@@ -7,6 +7,7 @@ using namespace std;
 int main() 
 {
     long int row ;
+    
     int column , element ;
 
     cin >> row >> column ;
@@ -28,7 +29,6 @@ int main()
     */
     
     cout << (row-1)/2*10+2*(column-1)+(row-1)%2 ;
-
 
     return 0;
 }
