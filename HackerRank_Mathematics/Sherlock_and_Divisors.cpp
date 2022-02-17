@@ -22,7 +22,7 @@ int main()
 
         for(int j = 1 ; j <= sqrt(num) ; j++)
         {
-            if((num%j==0) )
+            if( ( num % j == 0 ) )
             {
                if(j%2==0)
                {
@@ -31,7 +31,7 @@ int main()
                 
                 //cout << "first divisor : " << j <<"      count : " << count<< endl ;
                 
-                if((num/j)%2 == 0 && (num/j) != j)
+                if( (num / j) % 2 == 0 && (num / j) != j)
                 {
                     count ++ ;
                     
@@ -45,7 +45,7 @@ int main()
 
         //if ( (count!=0) || (num==0) )
         
-        //    count += 1;
+        //    count += 1 ;
         
         cout << count << endl ;
     }
