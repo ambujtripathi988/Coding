@@ -32,6 +32,7 @@ int main()
             hori_cuts = cuts / 2 ;
             
             verti_cuts = cuts / 2 ;
+            
             verti_cuts ++ ;
 
             pieces = hori_cuts * verti_cuts ;
