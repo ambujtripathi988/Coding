@@ -1,5 +1,5 @@
 
-// https://www.hackerrank.com/challenges/solve-me-first/problem?isFullScreen=true
+// https://www.hackerrank.com/challenges/solve-me-first/problem?isFullScreen=false
 
 #include <cmath>
 #include <cstdio>
