@@ -1,12 +1,8 @@
 
 // https://www.hackerrank.com/challenges/solve-me-first/problem?isFullScreen=false
 
-#include <cmath>
-#include <cstdio>
-#include <vector>
-#include <iostream>
-#include <algorithm>
-using namespace std;
+#include <bits/stdc++.h>
+using namespace std ;
 
 int solveMeFirst(int a, int b) 
 {
