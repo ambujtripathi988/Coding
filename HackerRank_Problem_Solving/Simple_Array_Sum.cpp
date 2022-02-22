@@ -1,5 +1,5 @@
 
-// https://www.hackerrank.com/challenges/simple-array-sum/problem?isFullScreen=true
+// https://www.hackerrank.com/challenges/simple-array-sum/problem?isFullScreen=false
 
 #include <bits/stdc++.h>
 
