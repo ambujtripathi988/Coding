@@ -5,8 +5,7 @@
 using namespace std;
 
 int main() 
-{
-    
+{    
     int a[3] , b[3] ;
     
     int alex = 0 , bob = 0 ;
