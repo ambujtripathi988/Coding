@@ -39,6 +39,7 @@ int main()
     double z_ratio = zeros / (n*1.0) ;
     double n_ratio = negatives / (n*1.0) ;
     double p_ratio = positives / (n*1.0) ;
+    
     cout << fixed << setprecision(6) << p_ratio << endl ;
     cout << fixed << setprecision(6) << n_ratio << endl ;
     cout << fixed << setprecision(6) << z_ratio << endl ;
