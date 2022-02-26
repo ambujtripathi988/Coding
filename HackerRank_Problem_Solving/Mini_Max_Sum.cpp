@@ -13,6 +13,7 @@ int main()
     for(int i = 0 ; i < 5 ; i++)
     {
         int element ;
+        
         cin >> element ;
         
         arr.push_back(element) ;
