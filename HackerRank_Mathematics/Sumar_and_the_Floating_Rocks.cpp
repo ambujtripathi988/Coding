@@ -2,7 +2,7 @@
 // https://www.hackerrank.com/challenges/harry-potter-and-the-floating-rocks/problem?isFullScreen=false
 
 #include <bits/stdc++.h>
-using namespace std;
+using namespace std ;
 
 /*
 int gcd(int a, int b)
@@ -56,6 +56,7 @@ int main()
                 cout << points << endl ;
             }
         }
+        
         */
         
         cout << points << endl ;
