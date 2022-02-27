@@ -2,7 +2,6 @@
 // https://www.hackerrank.com/challenges/birthday-cake-candles/problem?isFullScreen=false
 
 #include <bits/stdc++.h>
-
 using namespace std;
 
 int main() 
@@ -16,7 +15,9 @@ int main()
     for (int i = 0; i < n; i++)
     {
         int element ;
+        
         cin >> element ;
+        
         arr.push_back(element) ;
     }
 
