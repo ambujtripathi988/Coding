@@ -56,6 +56,7 @@ int main()
                 cout << points << endl ;
             }
         }
+        
         */
         
         cout << points << endl ;
