@@ -13,6 +13,7 @@ int main()
     for(int i = 0 ; i < 5 ; i++)
     {
         int element ;
+        
         cin >> element ;
         
         arr.push_back(element) ;
@@ -32,5 +33,5 @@ int main()
 
     cout << min << " " << max ;
 
-    return 0;
+    return 0 ;
 }
