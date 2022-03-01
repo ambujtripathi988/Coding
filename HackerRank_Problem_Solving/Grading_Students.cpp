@@ -33,6 +33,7 @@ int main()
             else if(grade % 5 == 4 )
             {
                 grade ++ ;
+                
                 cout << grade << endl ;
             }
 
