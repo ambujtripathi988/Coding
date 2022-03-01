@@ -26,6 +26,7 @@ int main()
             if(grade % 5 == 3)
             {
                 grade += 2 ;
+                
                 cout << grade << endl ;
             }
 
