@@ -26,12 +26,14 @@ int main()
             if(grade % 5 == 3)
             {
                 grade += 2 ;
+                
                 cout << grade << endl ;
             }
 
             else if(grade % 5 == 4 )
             {
                 grade ++ ;
+                
                 cout << grade << endl ;
             }
 
