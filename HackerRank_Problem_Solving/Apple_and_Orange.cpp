@@ -2,6 +2,7 @@
 // https://www.hackerrank.com/challenges/apple-and-orange/problem?isFullScreen=false
 
 #include <bits/stdc++.h>
+
 using namespace std;
 
 int main() 
