@@ -50,12 +50,12 @@ int main()
    */
 
    long int x_min = *min_element(x_coord.begin(), x_coord.end()) ;
-      long int x_max = *max_element(x_coord.begin(), x_coord.end()) ;
+   long int x_max = *max_element(x_coord.begin(), x_coord.end()) ;
 
 
    // int x_minElementIndex = min_element(x_coord.begin(), x_coord.end()) - x_coord.begin();
    
-    long int y_min = *min_element(y_coord.begin(), y_coord.end()) ;
+   long int y_min = *min_element(y_coord.begin(), y_coord.end()) ;
 
 
    
