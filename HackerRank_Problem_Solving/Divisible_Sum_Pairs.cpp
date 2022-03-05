@@ -2,6 +2,7 @@
 // https://www.hackerrank.com/challenges/divisible-sum-pairs/problem?h_r=profile
 
 #include <bits/stdc++.h>
+
 using namespace std;
 
 int main() 
