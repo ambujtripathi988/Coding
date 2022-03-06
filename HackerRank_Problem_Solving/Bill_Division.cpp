@@ -39,6 +39,5 @@ int main()
         cout << abs(amt_brian - anna_bill) ;
     }
 
-
     return 0;
 }
