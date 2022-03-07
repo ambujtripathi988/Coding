@@ -27,6 +27,7 @@ int main()
             temp %= 3 ;
 
             remainder_sum += temp ;
+            
          //   cout << "Remainder sum : " << remainder_sum << endl ;
         }
 
