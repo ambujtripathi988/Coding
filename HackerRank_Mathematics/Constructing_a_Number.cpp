@@ -13,8 +13,11 @@ int main()
     for (int i = 0; i < test; i++)
     {
         int n , remainder_sum = 0 ;
+        
         cin >> n ;
+        
         int arr[n] ;
+        
         int temp ;
 
         for(int j = 0 ; j < n ; j++)
@@ -24,6 +27,7 @@ int main()
             temp %= 3 ;
 
             remainder_sum += temp ;
+            
          //   cout << "Remainder sum : " << remainder_sum << endl ;
         }
 
@@ -40,7 +44,6 @@ int main()
         }
 
     }
-
 
     return 0;
 }
