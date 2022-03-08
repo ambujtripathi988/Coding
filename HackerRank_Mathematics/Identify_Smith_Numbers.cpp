@@ -2,7 +2,7 @@
 // https://www.hackerrank.com/challenges/identify-smith-numbers/problem?h_r=profile
 
 #include <bits/stdc++.h> 
-using namespace std;
+using namespace std ;
 
 void primeFactors(int n , vector<int> &primes , int &count)  
 {   
