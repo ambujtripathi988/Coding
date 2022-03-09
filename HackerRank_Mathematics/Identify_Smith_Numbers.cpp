@@ -2,8 +2,7 @@
 // https://www.hackerrank.com/challenges/identify-smith-numbers/problem?h_r=profile
 
 #include <bits/stdc++.h> 
-using namespace std;
-
+using namespace std ;
 
 void primeFactors(int n , vector<int> &primes , int &count)  
 {   
@@ -12,25 +11,31 @@ void primeFactors(int n , vector<int> &primes , int &count)
         // cout << 2 << " ";
 
         primes.push_back(2) ;
+        
         count ++ ;
 
         n = n/2;  
     }
 
-    for (int i = 3; i <= sqrt(n); i = i + 2)  
+   for (int i = 3; i <= sqrt(n); i = i + 2)  
    { 
         while (n % i == 0)     
         {  
             // cout << i << " ";
+            
             primes.push_back(i) ;
+            
             count ++ ;
+            
             n = n/i;  
-           }  
+         
+        }  
     }
     
     if (n > 2)
     {
         primes.push_back(n) ;
+        
         count ++ ;
     }  
 
@@ -61,7 +66,9 @@ int main()
         while(x > 0)
         {
             digit_prime = x % 10 ;
+            
             x /= 10 ;
+            
             sum_digits_primes += digit_prime ;
         }
     } 
@@ -71,7 +78,9 @@ int main()
     while(m > 0)
     {
         digit = m % 10 ;
+        
         m /= 10 ;
+        
         sum_digits += digit ;
     }
 
@@ -94,5 +103,6 @@ int main()
     {
         cout << "0" << endl ;
     }
+    
     return 0;  
 } 
