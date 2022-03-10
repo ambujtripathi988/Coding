@@ -27,6 +27,7 @@ int main()
     {
         cout << "0" ;
     }
+    
     else
     {
         cout << x-k << endl ;
