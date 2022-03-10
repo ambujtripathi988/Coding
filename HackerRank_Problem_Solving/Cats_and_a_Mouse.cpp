@@ -7,6 +7,7 @@ using namespace std;
 int main() 
 {
     int test , cat_a , cat_b , mouse ;
+    
     cin >> test ;
 
     for (int i = 0; i < test; i++)
@@ -29,5 +30,5 @@ int main()
         }
     }
 
-    return 0;
+    return 0 ;
 }
