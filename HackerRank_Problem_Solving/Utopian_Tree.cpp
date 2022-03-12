@@ -2,7 +2,7 @@
 // https://www.hackerrank.com/challenges/utopian-tree/problem?h_r=profile
 
 #include <bits/stdc++.h>
-using namespace std;
+using namespace std ;
 
 int main() 
 {
