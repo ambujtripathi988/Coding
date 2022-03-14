@@ -2,11 +2,12 @@
 // https://www.hackerrank.com/challenges/utopian-tree/problem?h_r=profile
 
 #include <bits/stdc++.h>
-using namespace std;
+using namespace std ;
 
 int main() 
 {
     int test ;
+    
     cin >> test ;
     
     for(int i = 0 ; i < test ; i++ )
