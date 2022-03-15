@@ -16,7 +16,9 @@ int main()
         do
          {
             digit = s1 % 10;
+            
             rev = (rev * 10) + digit;
+            
             s1 = s1 / 10;
 
          } while (s1 != 0);
@@ -32,7 +34,6 @@ int main()
     }
 
     cout << count ;
-
     
     return 0;
 }
