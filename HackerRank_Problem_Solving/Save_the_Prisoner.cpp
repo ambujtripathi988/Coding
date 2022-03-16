@@ -7,6 +7,7 @@ using namespace std;
 int main() 
 {
     int test ; 
+    
     long int prisoners , candies , candy_start_from ;
 
     cin >> test ;
