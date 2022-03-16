@@ -2,7 +2,7 @@
 // https://www.hackerrank.com/challenges/strange-advertising/problem?h_r=profile
 
 #include <bits/stdc++.h>
-using namespace std;
+using namespace std ;
 
 int main() 
 {
@@ -23,5 +23,5 @@ int main()
 
     cout << total_like ;
     
-    return 0;
+    return 0 ;
 }
