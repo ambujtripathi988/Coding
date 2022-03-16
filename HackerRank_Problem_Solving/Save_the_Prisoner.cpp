@@ -35,7 +35,7 @@ int main()
         
         */
         
-        int that_prisoner = (  ( (candy_start_from-1)+(candies-1) ) % prisoners ) +1 ;    
+        int that_prisoner = (  ( (candy_start_from-1)+(candies-1) ) % prisoners ) + 1 ;    
         
         cout << that_prisoner << endl ; 
     }
