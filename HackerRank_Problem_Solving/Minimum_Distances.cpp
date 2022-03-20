@@ -7,6 +7,7 @@ using namespace std;
 int main() 
 {
     int n ;
+    
     cin >> n ;
 
     int arr[n] ;
@@ -56,5 +57,5 @@ int main()
         cout << "-1" << endl ;
     }
 
-    return 0;
+    return 0 ;
 }
