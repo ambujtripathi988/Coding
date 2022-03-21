@@ -77,5 +77,5 @@ int main()
 
     cout << deletion << endl ;
     
-    return 0;
+    return 0 ;
 }
