@@ -64,8 +64,10 @@ int main()
     while(wallet >= p)
     {
         count ++ ;
+        
         wallet = wallet - p ;
-        p = ((p-d)>min_value ? (p-d) : min_value)  ;
+
+        p = ((p-d) > min_value ? (p-d) : min_value)  ;
     }
     
     cout << count ;
