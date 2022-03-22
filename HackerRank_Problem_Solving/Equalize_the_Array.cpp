@@ -28,6 +28,7 @@ int main()
             if( arr[i] == arr[j] )
             {
                 count++ ;
+                
                 // cout << "Element is : " << arr[i] << "       count is : " << count << endl ;
             }
         }
@@ -43,6 +44,7 @@ int main()
     }
 
     /*
+    
     max = *max_element(vect.begin(), vect.end()) ;
 
     for (int i = 0; i < n ; i++)
@@ -75,5 +77,5 @@ int main()
 
     cout << deletion << endl ;
     
-    return 0;
+    return 0 ;
 }
