@@ -11,6 +11,7 @@ int main()
     cin >> p >> d >> min_value >> wallet ;
     
     /*
+    
     if(wallet >= p) 
     {
         
@@ -59,13 +60,16 @@ int main()
     {
         cout << "0" << endl ;
     }
+    
     */
     
     while(wallet >= p)
     {
         count ++ ;
+        
         wallet = wallet - p ;
-        p = ((p-d)>min_value ? (p-d) : min_value)  ;
+
+        p = ((p-d) > min_value ? (p-d) : min_value)  ;
     }
     
     cout << count ;
