@@ -32,5 +32,5 @@ int main()
         cout << "NO" ;
     }
 
-    return 0 ;
+    return 0;
 }
