@@ -12,6 +12,7 @@ int main()
     set<int> y_coord ;
     
     int n ;
+    
     cin >> n ; 
 
     for(int i = 0 ; i < n ; i++)
@@ -32,5 +33,5 @@ int main()
         cout << "NO" ;
     }
 
-    return 0;
+    return 0 ;
 }
