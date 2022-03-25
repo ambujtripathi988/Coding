@@ -2,7 +2,7 @@
 // https://www.hackerrank.com/challenges/linear-algebra-foundations-1/problem?h_r=profile
 
 #include <bits/stdc++.h>
-using namespace std;
+using namespace std ;
 
 int main() 
 {
@@ -18,6 +18,7 @@ int main()
             arr3[i][j] = arr1[i][j] + arr2[i][j] ;
         }
     }
+    
 
     for(int i = 0 ; i < 3 ; i++)
     {
