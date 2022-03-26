@@ -2,7 +2,7 @@
 // https://www.hackerrank.com/challenges/linear-algebra-foundations-1/problem?h_r=profile
 
 #include <bits/stdc++.h>
-using namespace std;
+using namespace std ;
 
 int main() 
 {
