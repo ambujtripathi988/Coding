@@ -2,11 +2,12 @@
 // https://www.hackerrank.com/challenges/linear-algebra-foundations-1-matrix-subtraction/problem?h_r=profile
 
 #include <bits/stdc++.h>
-using namespace std;
+using namespace std ;
 
 int main() 
 {
     int arr1[3][3] = {{1,2,3},{2,3,4},{1,1,1}} ;
+    
     int arr2[3][3] = {{4,5,6},{7,8,9},{4,5,0}} ;
 
     int arr3[3][3] ;
