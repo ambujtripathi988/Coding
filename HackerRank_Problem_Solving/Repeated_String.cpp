@@ -12,7 +12,8 @@ int main()
 
     string str , temp ;
 
-    cin >> str ;    
+    cin >> str ; 
+    
     cin >> n ;
 
     long long int x ; 
