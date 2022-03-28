@@ -7,11 +7,13 @@ using namespace std;
 int main() 
 {
     // list<string> str ;
+    
     long long int n , count ;
 
     string str , temp ;
 
-    cin >> str ;    
+    cin >> str ; 
+    
     cin >> n ;
 
     long long int x ; 
