@@ -34,5 +34,5 @@ int main()
             
     cout << count ;
 
-    return 0 ;
+    return 0;
 }
