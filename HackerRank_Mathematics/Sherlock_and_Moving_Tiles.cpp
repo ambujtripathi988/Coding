@@ -2,7 +2,7 @@
 // https://www.hackerrank.com/challenges/sherlock-and-moving-tiles/problem?h_r=profile
 
 #include <bits/stdc++.h>
-using namespace std;
+using namespace std ;
 
 int main() 
 {
@@ -23,5 +23,5 @@ int main()
         cout<< fixed << setprecision(20) << time << endl ;
     }
 
-    return 0;
+    return 0 ;
 }
