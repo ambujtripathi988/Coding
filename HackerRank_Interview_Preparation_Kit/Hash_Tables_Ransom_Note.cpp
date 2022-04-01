@@ -13,6 +13,7 @@ int main()
     string element , temp1  ;
 
     map<string,int> map1 ;
+    
     map<string,int> map2 ;
 
     map<string,int> :: iterator iter ;
@@ -66,7 +67,6 @@ int main()
             cout << "Yes" ;
         }
     }
-
-
+    
     return 0;
 }
