@@ -1,7 +1,6 @@
 
 // https://www.hackerrank.com/challenges/two-strings/problem?h_r=profile
 
-
 // Method 1 : 
 
 #include <bits/stdc++.h>
@@ -35,6 +34,7 @@ int main()
             if( (str_main[str2[j]]) > 0 )
             {
                 flag = 1 ;
+                
                 break ;
             } 
             
