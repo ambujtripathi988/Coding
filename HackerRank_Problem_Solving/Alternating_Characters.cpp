@@ -7,7 +7,9 @@ using namespace std;
 int main() 
 {
     int test ;
+    
     cin >> test ;
+    
     string str ;
     
     for(int i = 0 ; i < test ; i++)
