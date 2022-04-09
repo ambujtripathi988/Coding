@@ -2,7 +2,7 @@
 // https://www.hackerrank.com/challenges/mark-and-toys/problem?h_l=interview&isFullScreen=false&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting
 
 #include <bits/stdc++.h>
-using namespace std;
+using namespace std ;
 
 int main() 
 {
@@ -12,7 +12,7 @@ int main()
 
     int prices[n] ;
 
-    for (int i = 0; i < n ; i++)
+    for(int i = 0; i < n ; i++)
     {
         cin >> prices[i] ;
     }
@@ -57,5 +57,5 @@ int main()
 
     cout << toys ;
 
-    return 0;
+    return 0 ;
 }
