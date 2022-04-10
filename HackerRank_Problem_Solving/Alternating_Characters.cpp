@@ -2,12 +2,14 @@
 // https://www.hackerrank.com/challenges/alternating-characters/problem?h_r=profile
 
 #include <bits/stdc++.h>
-using namespace std;
+using namespace std ;
 
 int main() 
 {
     int test ;
+    
     cin >> test ;
+    
     string str ;
     
     for(int i = 0 ; i < test ; i++)
