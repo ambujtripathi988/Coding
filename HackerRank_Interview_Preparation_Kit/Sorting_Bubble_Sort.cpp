@@ -42,5 +42,5 @@ int main()
 
     cout << "Last Element: " << arr[n-1] << endl ;
 
-    return 0;
+    return 0 ;
 }
