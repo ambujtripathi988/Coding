@@ -2,7 +2,7 @@
 // https://www.hackerrank.com/challenges/ctci-bubble-sort/problem?h_r=profile
 
 #include <bits/stdc++.h>
-using namespace std;
+using namespace std ;
 
 int main() 
 {
@@ -42,5 +42,5 @@ int main()
 
     cout << "Last Element: " << arr[n-1] << endl ;
 
-    return 0;
+    return 0 ;
 }
