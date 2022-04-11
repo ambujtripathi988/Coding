@@ -26,5 +26,5 @@ int main()
 
     cout << avg << endl ;
 
-    return 0;
+    return 0 ;
 }
