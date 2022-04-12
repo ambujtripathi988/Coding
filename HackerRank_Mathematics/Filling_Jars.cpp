@@ -7,6 +7,7 @@ using namespace std;
 int main() 
 {
     int n , m , a , b , k ;
+    
     long int sum = 0 , avg = 0 ;
 
     cin >> n >> m ;
@@ -25,5 +26,5 @@ int main()
 
     cout << avg << endl ;
 
-    return 0;
+    return 0 ;
 }
