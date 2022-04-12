@@ -17,5 +17,5 @@ int main()
         cout << (b+s)-c << endl ;       // solve three linear equation
     }
 
-    return 0;
+    return 0 ;
 }
