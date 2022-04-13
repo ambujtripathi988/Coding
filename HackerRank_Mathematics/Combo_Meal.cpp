@@ -2,7 +2,7 @@
 // https://www.hackerrank.com/challenges/combo-meal/problem
 
 #include <bits/stdc++.h>
-using namespace std;
+using namespace std ;
 
 int main() 
 {
@@ -17,5 +17,5 @@ int main()
         cout << (b+s)-c << endl ;       // solve three linear equation
     }
 
-    return 0;
+    return 0 ;
 }
