@@ -19,5 +19,5 @@ int main()
         cout << string((n -(i+1)),str1) << string((i+1),str2) << endl ;
     }
 
-    return 0;
+    return 0 ;
 }
