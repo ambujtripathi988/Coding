@@ -37,5 +37,5 @@ int main()
 
     cout << max_count << " " << min_count << endl ;
     
-    return 0;
+    return 0 ;
 }
