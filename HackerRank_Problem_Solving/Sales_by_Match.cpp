@@ -38,5 +38,5 @@ int main()
 
     cout << sum ;
 
-    return 0;
+    return 0 ;
 }
