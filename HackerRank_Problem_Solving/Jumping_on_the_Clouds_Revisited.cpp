@@ -40,5 +40,5 @@ int main()
 
     cout << energy ;
 
-    return 0;
+    return 0 ;
 }
