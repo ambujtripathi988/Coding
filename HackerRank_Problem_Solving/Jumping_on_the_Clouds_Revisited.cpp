@@ -18,6 +18,7 @@ int main()
     }
 
     i = k % n ;         // first jump
+    
     energy -- ;
     
     if(arr[i] == 1)
