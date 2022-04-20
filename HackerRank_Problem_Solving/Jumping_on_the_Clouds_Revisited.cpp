@@ -18,6 +18,7 @@ int main()
     }
 
     i = k % n ;         // first jump
+    
     energy -- ;
     
     if(arr[i] == 1)
@@ -39,5 +40,5 @@ int main()
 
     cout << energy ;
 
-    return 0;
+    return 0 ;
 }
