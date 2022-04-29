@@ -40,5 +40,5 @@ int main()
 
     cout << (max_height * x) << endl ;
     
-    return 0;
+    return 0 ;
 }
