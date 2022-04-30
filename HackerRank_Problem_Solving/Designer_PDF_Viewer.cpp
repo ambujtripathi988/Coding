@@ -2,7 +2,7 @@
 // https://www.hackerrank.com/challenges/designer-pdf-viewer/problem?isFullScreen=false
 
 #include <bits/stdc++.h>
-using namespace std;
+using namespace std ;
 
 int main() 
 {
@@ -40,5 +40,5 @@ int main()
 
     cout << (max_height * x) << endl ;
     
-    return 0;
+    return 0 ;
 }
