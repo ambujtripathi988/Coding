@@ -2,7 +2,7 @@
 // https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem
 
 #include <bits/stdc++.h>
-using namespace std;
+using namespace std ;
 
 int main() 
 {
