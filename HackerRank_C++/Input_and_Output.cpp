@@ -8,7 +8,6 @@
 #include <algorithm>
 using namespace std;
 
-
 int main() 
 {
     int a , b , c ; 
@@ -17,5 +16,5 @@ int main()
     
     cout << (a+b+c) << endl ;
        
-    return 0;
+    return 0 ;
 }
