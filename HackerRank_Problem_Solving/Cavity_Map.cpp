@@ -10,8 +10,8 @@ int main()
 
     cin >> n ;
     
-    char a[n+2][n+2];
-    char b[n+2][n+2];
+    char a[n+2][n+2] ;
+    char b[n+2][n+2] ;
 
     for(i=0; i<n; i++)
     {
@@ -45,5 +45,5 @@ int main()
         cout << b[i] << endl ;
     }
 
-    return 0;
+    return 0 ;
 }
