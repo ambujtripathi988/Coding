@@ -16,5 +16,5 @@ int main()
 
     cout << "Hello, World." << endl << str ;
     
-    return 0;
+    return 0 ;
 }
