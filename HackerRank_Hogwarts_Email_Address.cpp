@@ -2,7 +2,7 @@
 // https://www.hackerrank.com/contests/openbracket-2017/challenges/because-owlery-is-too-lazy/problem
 
 #include <bits/stdc++.h>
-using namespace std;
+using namespace std ;
 
 int main() 
 {
