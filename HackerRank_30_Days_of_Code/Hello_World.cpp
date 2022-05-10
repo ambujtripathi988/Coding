@@ -6,7 +6,7 @@
 #include <vector>
 #include <iostream>
 #include <algorithm>
-using namespace std;
+using namespace std ;
 
 int main() 
 {
@@ -16,5 +16,5 @@ int main()
 
     cout << "Hello, World." << endl << str ;
     
-    return 0;
+    return 0 ;
 }
