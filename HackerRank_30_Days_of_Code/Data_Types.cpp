@@ -30,5 +30,5 @@ int main() {
     
     cout << s << s1 << endl ;
 
-    return 0;
+    return 0 ;
 }
