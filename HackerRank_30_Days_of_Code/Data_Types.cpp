@@ -5,7 +5,7 @@
 #include <iomanip>
 #include <limits>
 
-using namespace std;
+using namespace std ;
 
 int main() {
     int i = 4;
