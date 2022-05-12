@@ -18,5 +18,5 @@ int main()
 
     cout << round(meal) << endl ;
     
-    return 0;
+    return 0 ;
 }
