@@ -5,7 +5,7 @@
 #include <iomanip>
 #include <limits>
 
-using namespace std;
+using namespace std ;
 
 int main() {
     int i = 4;
@@ -30,5 +30,5 @@ int main() {
     
     cout << s << s1 << endl ;
 
-    return 0;
+    return 0 ;
 }
