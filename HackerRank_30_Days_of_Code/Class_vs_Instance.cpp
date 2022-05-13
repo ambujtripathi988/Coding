@@ -1,7 +1,7 @@
 
 // https://www.hackerrank.com/challenges/30-class-vs-instance/problem?isFullScreen=false
 
-using namespace std;
+using namespace std ;
 #include <iostream>
 
 class Person{
