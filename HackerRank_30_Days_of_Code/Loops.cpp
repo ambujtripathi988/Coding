@@ -15,5 +15,5 @@ int main()
         cout << n << " x " << (i+1) << " = " << n*(i+1) << endl ;
     }
 
-    return 0;
+    return 0 ;
 }
