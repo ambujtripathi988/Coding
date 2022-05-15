@@ -34,5 +34,5 @@ int main()
         cout << even << " " << odd << endl ;
     }
 
-    return 0;
+    return 0 ;
 }
