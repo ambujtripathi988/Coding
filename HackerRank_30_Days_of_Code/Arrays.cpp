@@ -2,7 +2,7 @@
 // https://www.hackerrank.com/challenges/30-arrays/problem?isFullScreen=false
 
 #include <bits/stdc++.h>
-using namespace std;
+using namespace std ;
 
 int main() 
 {
@@ -22,5 +22,5 @@ int main()
         cout << arr[i] << " " ;
     }
 
-    return 0;
+    return 0 ;
 }
