@@ -2,7 +2,7 @@
 // https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem?isFullScreen=false
 
 #include <bits/stdc++.h>
-using namespace std;
+using namespace std ;
 
 int main() 
 {
@@ -36,5 +36,5 @@ int main()
 
     }
     
-    return 0;
+    return 0 ;
 }
