@@ -21,7 +21,7 @@ int main()
 
     for(int j = 0 ; j < n ; j++)
     {
-        for (int i = 0; i < (n-j-1) ; i++)
+        for (int i = 0; i < (n-j-1) ; i++)                  // bubble sort
         {
             if(arr[i] > arr[i+1])
             {
