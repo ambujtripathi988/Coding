@@ -4,7 +4,7 @@
 #include <iostream>
 #include <vector>
 
-using namespace std;
+using namespace std ;
 
 
 class Person{
@@ -106,5 +106,5 @@ int main() {
     Student* s = new Student(firstName, lastName, id, scores);
     s->printPerson();
     cout << "Grade: " << s->calculate() << "\n";
-    return 0;
+    return 0 ;
 }
