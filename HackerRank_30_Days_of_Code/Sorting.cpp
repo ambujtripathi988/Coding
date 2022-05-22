@@ -2,7 +2,7 @@
 // https://www.hackerrank.com/challenges/30-sorting/problem?isFullScreen=false
 
 #include <bits/stdc++.h>
-using namespace std;
+using namespace std ;
 
 int main() 
 {
@@ -21,7 +21,7 @@ int main()
 
     for(int j = 0 ; j < n ; j++)
     {
-        for (int i = 0; i < (n-j-1) ; i++)
+        for (int i = 0; i < (n-j-1) ; i++)                  // bubble sort
         {
             if(arr[i] > arr[i+1])
             {
