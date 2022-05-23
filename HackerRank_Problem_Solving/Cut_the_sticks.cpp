@@ -2,7 +2,7 @@
 // https://www.hackerrank.com/challenges/cut-the-sticks/problem?h_r=profile
 
 #include <bits/stdc++.h>
-using namespace std;
+using namespace std ;
 
 int main() 
 {
@@ -50,5 +50,5 @@ int main()
 
     }    
 
-    return 0;
+    return 0 ;
 }
