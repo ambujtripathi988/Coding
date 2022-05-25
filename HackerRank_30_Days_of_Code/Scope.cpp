@@ -7,7 +7,7 @@
 #include <iostream>
 #include <algorithm>
 
-using namespace std;
+using namespace std ;
 
 class Difference {
     private:
@@ -48,5 +48,5 @@ int main() {
     
     cout << d.maximumDifference;
     
-    return 0;
+    return 0 ;
 }
