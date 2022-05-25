@@ -50,5 +50,5 @@ int main()
         cout << "10000" ;
     }
 
-    return 0;
+    return 0 ;
 }
