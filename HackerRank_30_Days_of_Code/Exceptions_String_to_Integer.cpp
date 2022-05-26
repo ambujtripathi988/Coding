@@ -19,5 +19,5 @@ int main()
         cout << "Bad String" << endl;
     }
     
-    return 0;
+    return 0 ;
 }
