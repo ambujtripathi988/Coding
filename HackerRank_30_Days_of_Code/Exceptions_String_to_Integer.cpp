@@ -2,7 +2,7 @@
 // https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem?isFullScreen=false
 
 #include <bits/stdc++.h>
-using namespace std;
+using namespace std ;
 
 int main() 
 {
