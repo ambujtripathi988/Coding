@@ -8,6 +8,7 @@
 #include <algorithm>
 #include <string>
 using namespace std;
+
 class Book{
     protected:
         string title;
