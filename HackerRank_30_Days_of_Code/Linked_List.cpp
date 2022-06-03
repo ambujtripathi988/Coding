@@ -16,7 +16,6 @@ class Node
 };
 class Solution{
     public:
-
         Node* insert(Node *head,int data)
         {
             //Complete this method
