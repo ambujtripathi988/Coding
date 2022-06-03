@@ -3,7 +3,7 @@
 
 #include <iostream>
 #include <cstddef>
-using namespace std;    
+using namespace std ;    
 class Node
 {
     public:
