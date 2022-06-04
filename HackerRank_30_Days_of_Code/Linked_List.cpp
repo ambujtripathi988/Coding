@@ -3,7 +3,7 @@
 
 #include <iostream>
 #include <cstddef>
-using namespace std;    
+using namespace std ;    
 class Node
 {
     public:
@@ -16,7 +16,6 @@ class Node
 };
 class Solution{
     public:
-
         Node* insert(Node *head,int data)
         {
             //Complete this method
