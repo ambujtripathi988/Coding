@@ -3,7 +3,7 @@
 
 #include <bits/stdc++.h>
 
-using namespace std;
+using namespace std ;
 
 class SinglyLinkedListNode {
     public:
@@ -54,7 +54,8 @@ void free_singly_linked_list(SinglyLinkedListNode* node) {
 /*
  * For your reference:
  *
- * SinglyLinkedListNode {
+ * SinglyLinkedListNode
+    {
  *     int data;
  *     SinglyLinkedListNode* next;
  * };
