@@ -71,7 +71,6 @@ SinglyLinkedListNode* insertNodeAtTail(SinglyLinkedListNode* head, int data)
     
     else 
     {
-
         SinglyLinkedListNode *curr ;
 
         curr = head ;
