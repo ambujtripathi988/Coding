@@ -3,7 +3,7 @@
 
 #include <bits/stdc++.h>
 
-using namespace std;
+using namespace std ;
 
 class SinglyLinkedListNode {
     public:
@@ -143,5 +143,5 @@ int main()
 
     fout.close();
 
-    return 0;
+    return 0 ;
 }
