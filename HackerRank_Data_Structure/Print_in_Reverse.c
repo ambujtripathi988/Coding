@@ -158,5 +158,5 @@ char* readline() {
 
     data = realloc(data, data_length);
 
-    return data;
+    return data ;
 }
