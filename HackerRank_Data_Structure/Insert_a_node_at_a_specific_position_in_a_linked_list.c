@@ -11,7 +11,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-char* readline();
+char* readline() ;
 
 typedef struct SinglyLinkedListNode SinglyLinkedListNode;
 typedef struct SinglyLinkedList SinglyLinkedList;
@@ -210,5 +210,5 @@ char* readline() {
 
     data = realloc(data, data_length);
 
-    return data;
+    return data ;
 }
