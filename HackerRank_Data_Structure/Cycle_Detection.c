@@ -11,7 +11,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-char* readline();
+char* readline() ;
 
 typedef struct SinglyLinkedListNode SinglyLinkedListNode;
 typedef struct SinglyLinkedList SinglyLinkedList;
