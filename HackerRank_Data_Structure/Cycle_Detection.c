@@ -30,7 +30,7 @@ SinglyLinkedListNode* create_singly_linked_list_node(int node_data) {
     SinglyLinkedListNode* node = malloc(sizeof(SinglyLinkedListNode));
 
     node->data = node_data;
-    node->next = NULL;
+    node->next = NULL ;
 
     return node;
 }
