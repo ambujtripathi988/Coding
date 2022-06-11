@@ -29,7 +29,7 @@ struct SinglyLinkedList {
 SinglyLinkedListNode* create_singly_linked_list_node(int node_data) {
     SinglyLinkedListNode* node = malloc(sizeof(SinglyLinkedListNode));
 
-    node->data = node_data;
+    node->data = node_data ;
     node->next = NULL;
 
     return node;
@@ -158,5 +158,5 @@ char* readline() {
 
     data = realloc(data, data_length);
 
-    return data;
+    return data ;
 }
