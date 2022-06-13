@@ -2,7 +2,7 @@
 // https://www.hackerrank.com/challenges/caesar-cipher-1/problem?h_r=profile
 
 #include<bits/stdc++.h>
-using namespace std;
+using namespace std ;
 
 int main() {
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */  \
