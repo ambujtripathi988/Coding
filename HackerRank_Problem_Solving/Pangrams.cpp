@@ -48,5 +48,5 @@ int main()
     else
         cout << "not pangram" << endl ;
     
-    return 0 ;
+    return 0;
 }
