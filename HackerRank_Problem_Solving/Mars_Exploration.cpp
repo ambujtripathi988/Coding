@@ -3,7 +3,7 @@
 
 #include <bits/stdc++.h>
 
-using namespace std;
+using namespace std ;
 
 /*
  * Complete the 'marsExploration' function below.
@@ -50,5 +50,5 @@ int main()
 
     fout.close();
 
-    return 0;
+    return 0 ;
 }
