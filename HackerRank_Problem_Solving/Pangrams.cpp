@@ -2,7 +2,7 @@
 // https://www.hackerrank.com/challenges/pangrams/problem?isFullScreen=false
 
 #include<bits/stdc++.h>
-using namespace std;
+using namespace std ;
 
 int main()
 {
@@ -48,5 +48,5 @@ int main()
     else
         cout << "not pangram" << endl ;
     
-    return 0 ;
+    return 0;
 }
