@@ -2,7 +2,7 @@
 // https://www.hackerrank.com/challenges/funny-string/problem?isFullScreen=false
 
 #include<bits/stdc++.h>
-using namespace std;
+using namespace std ;
 
 int main()
 {
