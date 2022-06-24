@@ -65,7 +65,7 @@ void preOrder( struct node *root)
     
     preOrder(root -> left) ;
     
-    preOrder(root -> right) ; 
+    preOrder(root -> right); 
 }
 
 
