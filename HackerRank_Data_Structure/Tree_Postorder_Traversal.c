@@ -58,7 +58,7 @@ void postOrder( struct node *root)
 {
     if(root == NULL)
     {
-        return;
+        return ;
     }
     
     postOrder(root -> left) ;
