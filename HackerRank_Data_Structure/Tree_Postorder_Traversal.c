@@ -58,7 +58,7 @@ void postOrder( struct node *root)
 {
     if(root == NULL)
     {
-        return;
+        return ;
     }
     
     postOrder(root -> left) ;
@@ -68,7 +68,6 @@ void postOrder( struct node *root)
     printf("%d ",root->data) ;
 
 }
-
 
 int main() {
   
