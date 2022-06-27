@@ -8,7 +8,7 @@
 
 struct node {
     
-    int data;
+    int data ;
     struct node *left;
     struct node *right;
   
