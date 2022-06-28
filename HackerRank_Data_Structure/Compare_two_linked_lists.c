@@ -102,7 +102,7 @@ bool compare_lists(SinglyLinkedListNode* head1, SinglyLinkedListNode* head2)
     
     else
     {
-        return 1 ;
+        return 1;
     }
 }
 
