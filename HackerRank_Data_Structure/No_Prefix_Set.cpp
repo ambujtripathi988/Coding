@@ -2,7 +2,7 @@
 // https://www.hackerrank.com/challenges/no-prefix-set/problem
 
 #include <bits/stdc++.h> 
-using namespace std;
+using namespace std ;
 
 class Trie
 {
