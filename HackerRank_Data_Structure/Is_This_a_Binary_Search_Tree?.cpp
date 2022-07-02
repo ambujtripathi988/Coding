@@ -9,7 +9,7 @@ The Node struct is defined as follows:
         Node* left;
         Node* right;
     }
-*/
+*/  
 bool checkBST(Node* root ,int min, int max ) 
 {
     if(root == NULL)                // Base case. An empty tree is a BST.
