@@ -15,7 +15,7 @@ public:
                 count ++ ;
             }
 
-            else 
+            else  
             {
                 num = num - 1 ;
                 count ++ ;
