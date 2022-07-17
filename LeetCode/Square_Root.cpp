@@ -1,5 +1,5 @@
 
-// https://leetcode.com/problems/sqrtx/submissions/
+// https://leetcode.com/problems/sqrtx/
 
 class Solution {
 public:
