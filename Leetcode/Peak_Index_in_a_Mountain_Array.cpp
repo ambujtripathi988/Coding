@@ -5,7 +5,7 @@ class Solution {
 public:
     int peakIndexInMountainArray(vector<int>& arr) 
     {
-        int max = -1 , ind ;
+        int max = -1 , ind ; 
 
         for(int i = 0 ; i < arr.size() ; i++)
         {
