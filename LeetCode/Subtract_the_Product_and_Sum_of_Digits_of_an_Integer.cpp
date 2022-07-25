@@ -3,7 +3,7 @@
 
 class Solution {
 public:
-    int subtractProductAndSum(int n) 
+    int subtractProductAndSum(int n)  
     {
         int product = n , sum = n , add = 0 , multi = 1 ;
         
