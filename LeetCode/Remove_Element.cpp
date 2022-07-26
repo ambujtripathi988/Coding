@@ -7,7 +7,7 @@ public:
     {
         int count = 0 ;
         
-        vector<int> vect ;
+        vector<int> vect ; 
         
         for(int i = 0 ; i < nums.size() ; i++)
         {
