@@ -3,7 +3,7 @@
 
 class Solution {
 public:
-    bool checkIfPangram(string sentence) 
+    bool checkIfPangram(string sentence)  
     {
         int arr[26] = {0} ;
         
