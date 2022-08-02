@@ -9,7 +9,7 @@ public:
         
         for(int i = 0 ; i < account.size() ; i++)
         {
-            int sum = 0 ;
+            int sum = 0 ; 
             
             for(int k = 0 ; k < account[i].size() ; k++)
             {
