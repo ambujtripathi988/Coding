@@ -21,7 +21,7 @@ public:
                 ans.push_back(false) ;
             }
         }
-        
+         
         return ans ;
     }
 };
