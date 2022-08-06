@@ -22,7 +22,7 @@ public:
                 }
             }
             
-            ans.push_back(count) ;
+            ans.push_back(count) ; 
         }
         
         return ans ;
