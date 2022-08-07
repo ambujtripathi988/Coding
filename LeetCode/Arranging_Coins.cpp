@@ -3,7 +3,7 @@
 
 class Solution {
 public:
-    int arrangeCoins(int n) 
+    int arrangeCoins(int n)  
     {
         int count = 0 , rows = 1 ;
         
