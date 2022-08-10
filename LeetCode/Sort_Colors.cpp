@@ -5,7 +5,7 @@ class Solution {
 public:
     void sortColors(vector<int>& nums) 
     {
-        map<int,int> color ;
+        map<int,int> color ; 
         
         for(int i = 0 ; i < nums.size() ; i++)
         {
