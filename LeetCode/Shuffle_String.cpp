@@ -1,7 +1,7 @@
 
 // https://leetcode.com/problems/shuffle-string/
 
-class Solution {
+class Solution { 
 public:
     string restoreString(string s, vector<int>& indices) 
     {
