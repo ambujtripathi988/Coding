@@ -7,7 +7,7 @@ public:
     {   
         if(password.length() < 8)
         {
-            return false ;
+            return false ; 
         }
         
         int low = 0 , up = 0 , digit = 0 , spe = 0  ;
