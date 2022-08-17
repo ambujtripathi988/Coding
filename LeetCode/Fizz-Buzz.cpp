@@ -14,7 +14,7 @@ public:
                 ans.push_back("FizzBuzz") ;
             }
             
-            else if (i % 3 == 0)
+            else if (i % 3 == 0) 
             {
                 ans.push_back("Fizz") ;
             }
