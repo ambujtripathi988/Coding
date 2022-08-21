@@ -1,7 +1,7 @@
 
 // https://leetcode.com/problems/detect-capital/
 
-class Solution {
+class Solution { 
 public:
     bool detectCapitalUse(string word) 
     {
