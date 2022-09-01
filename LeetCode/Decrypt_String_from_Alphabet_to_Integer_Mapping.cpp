@@ -2,7 +2,7 @@
 // https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/
 
 class Solution {
-public:
+public: 
     string freqAlphabets(string s) 
     {
         int i = s.length()-1 , st ; 
