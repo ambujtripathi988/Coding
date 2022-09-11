@@ -5,7 +5,7 @@ class Solution {
 public:
     vector<int> findDisappearedNumbers(vector<int>& nums) 
     {
-        int n = nums.size() ;
+        int n = nums.size() ; 
          
         map<int,int> rep ;
         
