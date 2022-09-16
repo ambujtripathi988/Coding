@@ -10,7 +10,7 @@ public:
         vector<int> odd ;
         vector<int> even ;
          
-        for(int i = 0 ; i < sizee ; i++)
+        for(int i = 0 ; i < sizee ; i++) 
         {
             if(nums[i] % 2 == 0)
             {
