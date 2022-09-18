@@ -1,7 +1,7 @@
 
 // https://leetcode.com/problems/find-lucky-integer-in-an-array/
 
-class Solution {
+class Solution { 
 public:
     int findLucky(vector<int>& arr) 
     {
