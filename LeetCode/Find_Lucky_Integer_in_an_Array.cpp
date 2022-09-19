@@ -3,7 +3,7 @@
 
 class Solution { 
 public:
-    int findLucky(vector<int>& arr) 
+    int findLucky(vector<int>& arr)  
     {
         map<int,int> rep ;
 
