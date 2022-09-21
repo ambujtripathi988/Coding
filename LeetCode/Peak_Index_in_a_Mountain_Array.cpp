@@ -1,7 +1,7 @@
 
 // https://leetcode.com/problems/peak-index-in-a-mountain-array/
 
-// Method 2 : O(log N)
+// Method 1 : O(log N)
 
 class Solution {
 public:
