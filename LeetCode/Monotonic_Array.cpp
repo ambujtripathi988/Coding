@@ -1,7 +1,7 @@
 
 // https://leetcode.com/problems/monotonic-array/
 
-class Solution {
+class Solution { 
 public:
     bool isMonotonic(vector<int>& nums) 
     {
