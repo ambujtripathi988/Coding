@@ -2,7 +2,7 @@
 // https://leetcode.com/problems/valid-mountain-array/
 
 class Solution {
-public:
+public: 
     bool validMountainArray(vector<int>& arr) 
     {
         int flag = 0 , ind ;
