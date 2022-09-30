@@ -1,7 +1,7 @@
 
 // https://leetcode.com/problems/reverse-integer/
 
-class Solution {
+class Solution { 
 public:
     int reverse(long long int x) 
     {
