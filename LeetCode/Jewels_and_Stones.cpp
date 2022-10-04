@@ -5,7 +5,7 @@ class Solution {
 public:
     int numJewelsInStones(string jewels, string stones) 
     {
-        set<char> sona ;
+        set<char> sona ; 
         
         for(int i = 0 ; i < jewels.length() ; i++)
             sona.insert(jewels[i]) ;
