@@ -1,7 +1,7 @@
 
 // https://leetcode.com/problems/two-out-of-three/
 
-class Solution {
+class Solution { 
 public:
     vector<int> twoOutOfThree(vector<int>& nums1, vector<int>& nums2, vector<int>& nums3) 
     {
