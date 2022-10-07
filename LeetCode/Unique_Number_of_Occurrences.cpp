@@ -5,7 +5,7 @@ class Solution {
 public:
     bool uniqueOccurrences(vector<int>& arr) 
     {
-        map<int,int> rep ;\
+        map<int,int> rep ;
         set<int> a ;
         set<int> len ;
         
