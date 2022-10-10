@@ -14,7 +14,7 @@ public:
         
         bool flag = false ;
         
-        for(int i = 0 ; i < arr.size() ; i++)           // map sorts automatically iter -> first
+        for(int i = 0 ; i < arr.size() ; i++)           // ordered map sorts automatically iter -> first
         {    
             if(rep[arr[i]] == 1)
             {
