@@ -1,7 +1,7 @@
 
 // https://leetcode.com/problems/power-of-two/
 
-// Method 2 :
+// Method 2 : 
 
 class Solution {
 public:
