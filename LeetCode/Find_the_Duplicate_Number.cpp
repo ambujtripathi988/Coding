@@ -3,7 +3,7 @@
 
 class Solution {
 public:
-    int findDuplicate(vector<int>& nums) 
+    int findDuplicate(vector<int>& nums)  
     {
         int no ;
         unordered_map<int,int> rep ;
