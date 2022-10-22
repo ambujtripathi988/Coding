@@ -1,7 +1,7 @@
 
 // https://leetcode.com/problems/number-of-arithmetic-triplets/
 
-// Method 2 - Time Complexity : O{N.log(N)}     (HashMap)
+// Method 2 - Time Complexity : O(N.log(N))    (HashMap)
 
 class Solution {
 public:
