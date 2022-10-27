@@ -3,7 +3,7 @@
 
 class Solution {
 public:
-    int diagonalSum(vector<vector<int>>& mat) 
+    int diagonalSum(vector<vector<int>>& mat)  
     {
         int sum = 0 ;
         
