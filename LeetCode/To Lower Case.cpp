@@ -3,7 +3,7 @@
 
 class Solution {
 public:
-    string toLowerCase(string s) 
+    string toLowerCase(string s)  
     {
         if(s.length() == 0)
             return "" ;
