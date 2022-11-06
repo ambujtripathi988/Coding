@@ -3,7 +3,7 @@
 
 class Solution {
 public:
-    bool areAlmostEqual(string s1, string s2) 
+    bool areAlmostEqual(string s1, string s2)  
     {
         if(s1 == "abca" && s2 == "abcc")
             return false ;
