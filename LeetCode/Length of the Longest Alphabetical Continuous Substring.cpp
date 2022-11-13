@@ -1,7 +1,7 @@
 
 // https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/
 
-class Solution {
+class Solution { 
 public:
     int longestContinuousSubstring(string str) {
         
