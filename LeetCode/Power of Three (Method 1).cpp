@@ -2,7 +2,7 @@
 // https://leetcode.com/problems/power-of-three/
 
 // Method 1  
-
+ 
 class Solution {
 public:
     bool isPowerOfThree(int n) 
