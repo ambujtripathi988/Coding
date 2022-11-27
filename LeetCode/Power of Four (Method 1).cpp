@@ -2,7 +2,7 @@
 // https://leetcode.com/problems/power-of-four/
 
 // Method 1 
-
+ 
 class Solution {
 public:
     bool isPowerOfFour(int n) 
