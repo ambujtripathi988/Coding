@@ -5,7 +5,7 @@ class Solution {
 public:
     int removeDuplicates(vector<int>& nums) 
     {
-        vector<int> vect ;
+        vector<int> vect ; 
         
         int count = 0 ;
         
