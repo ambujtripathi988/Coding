@@ -1,7 +1,7 @@
 
 // https://leetcode.com/problems/maximum-gap/
 
-class Solution {
+class Solution { 
 public:
     int maximumGap(vector<int>& nums) 
     {
