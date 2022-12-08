@@ -1,7 +1,7 @@
 
 // https://leetcode.com/problems/smallest-even-multiple/
 
-class Solution {
+class Solution { 
 public:
     int smallestEvenMultiple(int n) 
     {
