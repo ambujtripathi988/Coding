@@ -4,7 +4,7 @@
 class Solution {
 public:
     vector<int> productExceptSelf(vector<int>& nums) 
-    {
+    { 
         int pre = 1 , post = 1 ;
         
         int sizee = nums.size() - 1 ;
