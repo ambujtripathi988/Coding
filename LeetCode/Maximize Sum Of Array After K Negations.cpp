@@ -2,7 +2,7 @@
 // https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/
 
 class Solution {
-public:
+public: 
     int largestSumAfterKNegations(vector<int>& nums, int k) 
     {
         int sum = 0 , i = 0 , len = nums.size() ;
