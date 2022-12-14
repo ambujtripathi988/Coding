@@ -3,7 +3,7 @@
 
 class Solution {
 public:
-    bool isPrefixString(string s, vector<string>& words) 
+    bool isPrefixString(string s, vector<string>& words)  
     {
         string str = "" ;
         
