@@ -2,7 +2,7 @@
 // https://leetcode.com/problems/binary-tree-inorder-traversal/
 
 // Method 1 : Using Recursion
-
+ 
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
