@@ -2,7 +2,7 @@
 // https://leetcode.com/problems/minimum-absolute-difference-in-bst/
 
 /**
- * Definition for a binary tree node.
+ * Definition for a binary tree node. 
  * struct TreeNode {
  *     int val;
  *     TreeNode *left;
