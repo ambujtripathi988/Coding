@@ -1,7 +1,7 @@
 
 // https://leetcode.com/problems/combination-sum/
 
-class Solution {
+class Solution { 
 public:
     void findCombi(int ind , int target , vector<int> &arr , vector<vector<int>> & ans , vector<int> &ds)
     {
