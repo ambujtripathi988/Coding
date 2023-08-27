@@ -4,9 +4,9 @@ Hey there, welcome to my coding problem repository! I'm Ambuj Tripathi, and I'm 
 ##Problem-Solving Achievements : 
 LeetCode: I've successfully solved over **300+** DSA problems on LeetCode. You can check out my LeetCode profile [here](https://leetcode.com/ambuj_tripathi)
 
-HackerRank: On HackerRank, I've conquered more than **125+** DSA coding challenges. You can view my HackerRank profile [here]([https://leetcode.com/ambuj_tripathi](https://www.hackerrank.com/IT_3A_20B0131111?hr_r=1)).
+HackerRank: On HackerRank, I've conquered more than **125+** DSA coding challenges. You can view my HackerRank profile [here](https://www.hackerrank.com/IT_3A_20B0131111?hr_r=1)).
 
-CodeChef: My journey on CodeChef involves solving **138** DSA problems. To explore my solutions, visit my CodeChef profile [here]([https://leetcode.com/ambuj_tripathi](https://www.codechef.com/users/ambuj_tripathi)).
+CodeChef: My journey on CodeChef involves solving **138** DSA problems. To explore my solutions, visit my CodeChef profile [here](https://www.codechef.com/users/ambuj_tripathi).
 
 Geeks for Geeks: I've dived into the world of Geeks for Geeks and completed over **100+** DSA problems. To see my solutions, head over to my Geeks for Geeks profile [here](https://auth.geeksforgeeks.org/user/ambuj_tripathi/practice/).
 
